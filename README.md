@@ -1,5 +1,5 @@
 ## Description
-A Python-based virtual environment setup capable to design and develop a prototype of a computer application for Telegram chat bot utilizing Artificial Intelligence methods or models.. This project explores NLP techniques, chatbot development, and AI integration with Telegram's Bot API.
+A virtual environment setup capable to design and develop a prototype of a computer application for Telegram chat bot utilizing Artificial Intelligence methods or models.. This project explores NLP techniques, chatbot development, and AI integration with Telegram's Bot API.
 
 ## Features ✨
 
@@ -10,7 +10,6 @@ A Python-based virtual environment setup capable to design and develop a prototy
 
 ## Tech Stack 🛠️
 
-- **Backend**: Python 3.8+
 - **AI Framework**: Ollama
 - **Chat Platform**: Telegram Bot API
 - **Deployment**: Docker, n8n
