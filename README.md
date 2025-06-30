@@ -1,7 +1,7 @@
 ## Description
 A virtual environment setup capable to design and develop a prototype of a computer application for Telegram chat bot utilizing Artificial Intelligence methods or models.. This project explores NLP techniques, chatbot development, and AI integration with Telegram's Bot API.
 
-## Features ✨
+## Features
 
 - **Generative AI Responses** - Powered by modern language models
 - **Context-Aware Conversations** - Maintains dialogue context
