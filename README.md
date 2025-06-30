@@ -1,2 +1,2 @@
-A virtual environment setup capable of a Telegram AI chatbot creation
-
+##Description
+A virtual environment setup capable to design and develop a prototype of a computer application for Telegram chat bot utilizing Artificial Intelligence methods or models.
