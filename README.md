@@ -7,9 +7,3 @@ A virtual environment setup capable to design and develop a prototype of a compu
 - **Context-Aware Conversations** - Maintains dialogue context
 - **Easy Telegram Integration** - Simple setup via Bot API
 - **Customizable** - Adaptable for different use cases
-
-## Tech Stack 🛠️
-
-- **AI Framework**: Ollama
-- **Chat Platform**: Telegram Bot API
-- **Deployment**: Docker, n8n
